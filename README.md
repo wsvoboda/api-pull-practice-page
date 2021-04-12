@@ -23,6 +23,6 @@ If the user clicks on the "Discover" button, 30 locations will pop up.
 
 The data is pulled from an API of fake data. The API provides a lorem ipsum-type description. The images come from a lorem picsum-type site. 
 
-The user can scroll back up at any time and click either button again to load more people or locations.
+The user can scroll back up at any time and click either button again to load more people or locations. The new data replaces the existing data on the screen.
 
 
