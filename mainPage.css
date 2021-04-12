@@ -48,12 +48,24 @@ html {
 .meet {
   height: 30px;
   width: 60px;
-  border-radius: 1px;
+  border-radius: 3px;
+  border: none;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
 }
 .discover {
   height: 30px;
   width: 80px;
-  border-radius: 1px;
+  border-radius: 3px;
+  border: none;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+* {
+  outline: none;
 }
 
 .card-header {
