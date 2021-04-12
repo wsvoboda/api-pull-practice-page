@@ -25,4 +25,7 @@ The data is pulled from an API of fake data. The API provides a lorem ipsum-type
 
 The user can scroll back up at any time and click either button again to load more people or locations. The new data replaces the existing data on the screen.
 
+This was also my first time creating a favicon!
+
+![image](https://user-images.githubusercontent.com/78281930/114326031-7cb90800-9af8-11eb-85f4-f3a2458ca870.png)
 
